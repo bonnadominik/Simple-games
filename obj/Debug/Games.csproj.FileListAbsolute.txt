@@ -1,0 +1,13 @@
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\bin\Debug\Games.exe.config
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\bin\Debug\Games.exe
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\bin\Debug\Games.pdb
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.csprojAssemblyReference.cache
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.Form1.resources
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.Form2.resources
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.Properties.Resources.resources
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.csproj.GenerateResource.cache
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.exe
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.pdb
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.Form3.resources
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.Form4.resources
+D:\Dropbox\Uczelnia\3 semestr\Programowanie\Games\obj\Debug\Games.Form5.resources
